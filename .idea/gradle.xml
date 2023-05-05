@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Sorting Tool (Java)/task" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Advantages of switch expressions" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Making it compile" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Months of the year" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Switch expression keywords" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
